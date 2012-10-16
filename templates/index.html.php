@@ -12,7 +12,6 @@
 
 		.alone { margin-top: 20px; }
 		.tab-pane { padding: 0 20px; }
-		.activity-object { padding: 10px 0; }
 		.activity-url { margin-top: -10px; }
 		.activity-info { margin-top: -8px; }
 
@@ -61,6 +60,9 @@
 						<p><i class="icon-tags"></i> <a href="#">fsw</a>, <a href="#">FederatedSocialWeb</a></p>
 						<p class="activity-info"><i class="icon-time"></i>  <small>2 hours ago</small> &nbsp;&nbsp; <small><a href="#">Edit</a></small> &nbsp; <small><a href="#">Delete</a></small></p>
 					</div>
+
+					<hr>
+
 					<div class="activity-object">
 						<p>
 							<h4><a href="http://www.theatlantic.com/technology/archive/2012/10/dark-social-we-have-the-whole-history-of-the-web-wrong/263523/">Dark Social: We Have the Whole History of the Web Wrong - Alexis C. Madrigal - The Atlantic</a></h4>
@@ -69,7 +71,11 @@
 						<p><i class="icon-tags"></i>  <a href="#">Facebook</a>, <a href="#">fb</a>, <a href="#">fsw</a>, <a href="#">FederatedSocialWeb</a></p>
 						<p class="activity-info"><i class="icon-time"></i>  <small>4 hours ago</small> &nbsp;&nbsp; <small><a href="#">Edit</a></small> &nbsp; <small><a href="#">Delete</a></small></p>
 					</div>
+
+					<hr>
+
 				</div>
+
 
                 <div id="likesbypeopleifollow" class="tab-pane fade">
 					Coming Soon...
